@@ -40,7 +40,7 @@ Dette tvinger deg til å faktisk teste og justere farger, i stedet for å bruke 
 
 ## Leveranse
 
-* Lever koden (HTML/CSS, evt. JS) via GitHub/GitHub Classroom slik vi vanligvis gjør.
+* Jobb i VSCode via Git/Github Desktop. Lever link til repository i Teams, enten satt som public eller der jeg er lagt til som collaborator (dette har du eget ansvar for å kontrollere at jeg får tilgang)
 
 ## Vurderingskriterier
 

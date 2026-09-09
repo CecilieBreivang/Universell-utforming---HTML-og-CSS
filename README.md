@@ -51,3 +51,7 @@ Dette tvinger deg til å faktisk teste og justere farger, i stedet for å bruke 
 | Semantisk HTML | Riktig bruk av semantiske elementer, minimal og begrunnet bruk av div |
 | Innhold | Alle tre spørsmål er besvart med egne ord og faglig korrekt |
 | Design | Ulike farger per del, ingen svart/hvit, men fortsatt lesbart og tilgjengelig |
+
+## Karakter
+
+Arbeidet deres vurderes til lav, middels og høy måloppnåelse, basert på kriteriene ovenfor.
